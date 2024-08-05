@@ -36,18 +36,4 @@ film_name = media.Movie(
     "youtube_trailer_url"
 )
 
-## Project Structure
 
-- `entertainment_center.py`: Main script to create and open the movie page.
-- `media.py`: Contains the `Movie` class definition (if applicable).
-- `fresh_tomatoes.html`: Output HTML file with the list of movies.
-
-## Contact
-
-For any questions or feedback, feel free to reach out:
-
-- **Hussien Mohamed**: [Facebook](https://www.facebook.com/hussein.hesham.399)
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
